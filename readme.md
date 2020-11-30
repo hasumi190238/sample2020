@@ -2,7 +2,7 @@
 - this is my project.
 
 ## profile
-- name: Tokyo Taro
+- name: Tokyo Taro.
 
 ## note
-- hello
+- hello.
